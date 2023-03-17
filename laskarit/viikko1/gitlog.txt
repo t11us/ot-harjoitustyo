@@ -1,0 +1,105 @@
+commit 676ff537fe34e81036e982a1c80b3021301e5668
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Wed Mar 15 12:17:56 2023 +0200
+
+	file1 poistettu, file2 nyt file22
+
+ tiedostoja/file2         	| 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 0d11144c4a0379ddf358f37afebf5265aaaa2066
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Wed Mar 15 12:13:37 2023 +0200
+
+	file1-3 lisatty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit da7c66e4c19860d2d6757b726881675aae672548
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Wed Mar 15 12:06:51 2023 +0200
+
+	unohdin lisata eka.txt:n koska tein yhen jutun vaarin
+
+ eka.txt | 4591 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 4591 insertions(+)
+
+commit c3c0f9aefb68b43acb9b0b7c6ebc3ac69e6912f3
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:35:19 2023 +0200
+
+	eka.txt ja kolmas.txt muutettu
+
+ kolmas.txt   |	2 +-
+ tiedosto.txt | 4590 ----------------------------------------------------------
+ toinen.txt   |	1 -
+ 3 files changed, 1 insertion(+), 4592 deletions(-)
+
+commit 9ca9a3b0a39ddb6f425f068649169086b0a1fabc
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:27:15 2023 +0200
+
+	tiedosto.txt:tä muutettu
+
+ tiedosto.txt | 15 +++++++++++++--
+ 1 file changed, 13 insertions(+), 2 deletions(-)
+
+commit 74918e5341700153d91ce8e0df4d75a5fbbf0e00
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:24:53 2023 +0200
+
+	paljon tekstia lisatty tiedosto.txthen
+
+ tiedosto.txt | 4578 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 4578 insertions(+)
+
+commit 0fe06c68fd6edb311d8f2123229484d13948d4ff
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:15:24 2023 +0200
+
+	added directory stuff and file aThing
+
+ stuff/aThing.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f4b6d71cd850b8e7d661c6a861f0e124550c4c4b
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:13:42 2023 +0200
+
+	modified toinen and kolmas
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 3fde644dfb1622762c231effb37be3b7b2bf1735
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:11:34 2023 +0200
+
+	added kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 601e2532a040827c0dc5ec5911119928fed576d4
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:08:01 2023 +0200
+
+	changed and added
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 850551fb54aba4cff0cfeabf9906c5f824fe2414
+Author: Tia Iskanius <isktia@helsinki.fi>
+Date:   Tue Mar 14 13:04:21 2023 +0200
+
+	tiedosto.txt created
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

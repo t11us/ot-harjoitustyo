@@ -1,0 +1,18 @@
+En copypastennut treetä, vaan otin jostain syystä kuvan.
+Tämä kuva löytyy tiedostosta komentorivi.txt
+
+Tässä on itse kirjoittamani tekstiversio siitä, mikä oli kuvassa.
+
+kurssit
+|__ot2022
+  |__viikko1
+    |__unicafe
+      |__poetry.lock
+      |__pyproject.toml
+      |__src
+        |__index.py
+        |__kassapaate.py
+        |__maksukortti.py
+        |__tests
+          |____init__.py
+          |__maksukortti_test.py
