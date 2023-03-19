@@ -1,5 +1,5 @@
 En copypastennut treetä, vaan otin jostain syystä kuvan.
-Tämä kuva löytyy tiedostosta komentorivi.txt
+Tämä kuva löytyy tiedostosta komentorivi.png
 
 Tässä on itse kirjoittamani tekstiversio siitä, mikä oli kuvassa.
 
