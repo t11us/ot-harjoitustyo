@@ -8,10 +8,9 @@ Menolipussa pelaajat rakentavat nostamillaan korteilla raiteita asemien välille
 
 Perustoiminnallisuudet:
 - Pelilauta, jossa on asemia ja reittejä niiden välillä
-- Ennaltamäärättyjen reittikorttien nostaminen
+- Ennaltatehtyjen reittikorttien nostaminen
 - Vaunu- ja veturikorttien nostaminen
-- Vaunu- ja veturikorttien käyttäminen rakentamaan raiteita 
-- Nappi, jota painamalla voi tarkastella omia reittikortteja (jotka ovat muulloin piilossa vastustajalta)
+- Vaunu- ja veturikorttien käyttäminen rakentamaan raiteita
 - Automaattinen pisteidenlasku pelin lopuksi
 
 Jatkokehitysideat:
