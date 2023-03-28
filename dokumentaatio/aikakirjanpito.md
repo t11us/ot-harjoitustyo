@@ -1,6 +1,6 @@
-#Projektin aikakirjanpito
+# Projektin aikakirjanpito
 
-###Viikko 2
+### Viikko 2
 Käytetty aika: 
 1.2 tuntia
 
