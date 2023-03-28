@@ -1,10 +1,10 @@
-#Vaativuusmäärittely
+# Vaativuusmäärittely
 
-###Sovelluksen tarkoitus
+### Sovelluksen tarkoitus
 Sovellus on graafinen käyttöliittymä, jossa voi pelata yksinkertaista versiota pelistä Menolippu.
 Menolipussa pelaajat rakentavat nostamillaan korteilla raiteita asemien välille, ja saavat täten pisteitä.
 
-###Toiminnallisuudet
+### Toiminnallisuudet
 
 Perustoiminnallisuudet:
 - Pelilauta, jossa on asemia ja reittejä niiden välillä
