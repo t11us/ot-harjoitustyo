@@ -6,6 +6,6 @@
 
 [Linkki gitlog.txt:hen](https://github.com/t11us/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
-[Linkki harjoitustyön määrittelydokumenttiin](https://github.com/t11us/ot-harjoitustyo/blob/master/dokumentaatio/vaativuusmaarittely.md)
+[Linkki harjoitustyön määrittelydokumenttiin](https://github.com/t11us/ot-harjoitustyo/blob/master/ticket_to_ride_app/dokumentaatio/vaativuusmaarittely.md)
 
-[Linkki projektin ajankäytön kirjanpitoon](https://github.com/t11us/ot-harjoitustyo/blob/master/dokumentaatio/aikakirjanpito.md)
+[Linkki projektin ajankäytön kirjanpitoon](https://github.com/t11us/ot-harjoitustyo/blob/master/ticket_to_ride_app/dokumentaatio/aikakirjanpito.md)
