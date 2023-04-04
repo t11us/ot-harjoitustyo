@@ -1,11 +1,11 @@
 from traindeck  import *
 from traingenerator import *
+from routes import *
 
 def main():
     tgen = TrainGenerator()
     tdeck = TrainDeck(tgen)
-    print(["R","O","Y","G","b","P","B","W","L"])
-    print(tdeck.string())
+    routes = Routes()
     
 
 

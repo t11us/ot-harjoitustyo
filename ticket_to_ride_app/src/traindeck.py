@@ -14,8 +14,4 @@ class TrainDeck:
         for i in range(0,5):
             self.deck[self.tgen.generate()] += 1
 
-    def string(self):
-        return(self.deck)
-
-
 

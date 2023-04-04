@@ -1,7 +1,7 @@
 import random
 
 colornames = {0:"Red", 1:"Orange", 2:"Yellow", 3:"Green", 4:"Blue", 5:"Purple", 6:"Black", 7:"White",8:"L"}
-colorletters = ["R","O","Y","G","b","P","B","W"]
+colorletters = ["R","O","Y","G","b","P","B","W","L"]
 colornum = 9
 
 #Class that gives out random train cards
