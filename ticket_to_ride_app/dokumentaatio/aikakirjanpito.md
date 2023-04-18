@@ -21,3 +21,13 @@ Mitä tehty:
 - testejä luotu
 - invoke tasks implementoitu
 - reittejä käsittelevä luokka Routes luotu
+
+### Viikko 4
+Käytetty aika:
+1 tunti
+
+Mitä tehty:
+- käynnistäessä kysytään nyt pelaajamäärää
+- pelaajille luodaan kädet
+- pelaajilla on vuoroja
+- korttien nostaminen vuorolla implementoitu tekstipohjaisesti
