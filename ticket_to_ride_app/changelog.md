@@ -17,3 +17,13 @@ routes.py
 - contains dicts of colors lengths and ownership of extant routes
 - get_route() returns info on route between two given stations or returns False if route doesn't exist
 - buy_route() changes status of route if bought
+
+
+### Week 4
+main.py
+- now asks how many players are playing
+- lets players have turns
+- lets players draw cards on their turn
+
+traindeck.py
+- now places starting cards in deck at init
