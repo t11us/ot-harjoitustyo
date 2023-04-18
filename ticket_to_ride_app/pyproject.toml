@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "unicafe"
+name = "ticket-to-ride-app"
 version = "0.1.0"
 description = ""
-authors = ["Kalle Ilves <kalle.ilves@helsinki.fi>"]
+authors = ["Tia iskanius"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
