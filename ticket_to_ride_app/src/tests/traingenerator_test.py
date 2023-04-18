@@ -1,5 +1,5 @@
 import unittest
-
+    
 from traingenerator import TrainGenerator
 
 class TestTrainGenerator(unittest.TestCase):

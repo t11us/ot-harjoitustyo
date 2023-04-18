@@ -11,6 +11,7 @@ Perustoiminnallisuudet:
 - Ennaltatehtyjen reittikorttien nostaminen
 - Vaunu- ja veturikorttien nostaminen
 - Vaunu- ja veturikorttien käyttäminen rakentamaan raiteita
+- Pelin päättyminen
 - Automaattinen pisteidenlasku pelin lopuksi
 
 Jatkokehitysideat:
